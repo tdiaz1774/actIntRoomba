@@ -1,8 +1,8 @@
 # actIntRoomba
 
-Tomas Diaz Servin 
-Matias Mendez
-Ricardo Alonso
+Tomas Diaz Servin \n
+Matias Mendez \n
+Ricardo Alonso \n
 
 En esta actividad se llevó a cabo la implementación de agentes inteligentes capaces de poder detectar otros agentes y llevar a cabo ciertas acciones con ellos. Por lo tanto, en este caso se debieron de identificar los agentes Box y a través de métodos se iban recogiendo estas cajas (se guardaban como un atributo del agente las cargaba) y se llevaban a un stack de cajas donde estas se iban apilando.
 
